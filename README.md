@@ -7,3 +7,7 @@ cd build
 rm -rf *
 cmake ..
 make
+
+# 简单示例
+在src目录下有一个main.cpp 里面实现了一个简单的ChatServer，通过仿照该类进行配置，类似main函数的调用就可以正常启动服务器。
+可以自行扩展相关业务，参照main.cpp中定义自己的业务类。
