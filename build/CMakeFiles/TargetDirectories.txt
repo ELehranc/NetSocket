@@ -1,0 +1,5 @@
+/home/webserver/Project/NetSocket/build/CMakeFiles/rebuild_cache.dir
+/home/webserver/Project/NetSocket/build/CMakeFiles/edit_cache.dir
+/home/webserver/Project/NetSocket/build/src/CMakeFiles/rebuild_cache.dir
+/home/webserver/Project/NetSocket/build/src/CMakeFiles/edit_cache.dir
+/home/webserver/Project/NetSocket/build/src/CMakeFiles/NetSocket.dir
